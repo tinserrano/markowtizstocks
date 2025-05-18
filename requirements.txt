@@ -1,9 +1,9 @@
 streamlit
 pandas
 numpy
-matplotlib==3.4.1
+matplotlib>=3.7.0
 requests
 plotly
 yfinance
 curl_cffi
-datetime
+Pillow # Para manejar imágenes
