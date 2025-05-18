@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib==3.4.1
+requests
+plotly
+yfinance
+curl_cffi
+datetime
